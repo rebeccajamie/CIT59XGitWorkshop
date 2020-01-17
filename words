@@ -1,5 +1,5 @@
 int main() {
-  int x = 5;
-  system.out.println(x);
+  int y = 5;
+  system.out.println(y);
   return 0;
   }
